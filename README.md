@@ -76,6 +76,9 @@ Streamlit webapp
 - **Recommendation tabs:** “Behavior patterns” (frequency model) and “AI concierge” (OpenAI). Each row lists class details, a plan label, fit score, and a natural-language reason.
 - **Actions:** Buttons to save either set into the audit log.
 
+## Demo recording
+[Demo](https://drive.google.com/file/d/1GqYqmsJ5SAWShUZQ6HMaSbmEuFkfWK7r/view?usp=sharing)
+
 ## Running locally
 1. **Install dependencies**
    ```bash
